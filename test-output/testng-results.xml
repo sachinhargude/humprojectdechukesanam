@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-28T07:31:59 IST" name="Suite" finished-at="2022-05-28T07:32:10 IST" duration-ms="10420">
+    <groups>
+    </groups>
+    <test started-at="2022-05-28T07:31:59 IST" name="HighPTest" finished-at="2022-05-28T07:32:10 IST" duration-ms="10420">
+      <class name="com.SauceDemo.TestClasses.TC01LoginFunctionality">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SauceDemo.TestClasses.TC01LoginFunctionality@505fc5a4]" started-at="2022-05-28T07:31:59 IST" name="setUp" finished-at="2022-05-28T07:32:09 IST" duration-ms="9732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginFunctionalityTest()[pri:0, instance:com.SauceDemo.TestClasses.TC01LoginFunctionality@505fc5a4]" started-at="2022-05-28T07:32:09 IST" name="loginFunctionalityTest" finished-at="2022-05-28T07:32:09 IST" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunctionalityTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SauceDemo.TestClasses.TC01LoginFunctionality@505fc5a4]" started-at="2022-05-28T07:32:09 IST" name="tearDown" finished-at="2022-05-28T07:32:10 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SauceDemo.TestClasses.TC01LoginFunctionality -->
+      <class name="com.SauceDemo.TestClasses.TC07LogoutFunctionality">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SauceDemo.TestClasses.TC07LogoutFunctionality@4efc180e]" started-at="2022-05-28T07:31:59 IST" name="setUp" finished-at="2022-05-28T07:32:09 IST" duration-ms="9861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logoutFunctionalitty()[pri:0, instance:com.SauceDemo.TestClasses.TC07LogoutFunctionality@4efc180e]" started-at="2022-05-28T07:32:09 IST" name="logoutFunctionalitty" finished-at="2022-05-28T07:32:09 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFunctionalitty -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SauceDemo.TestClasses.TC07LogoutFunctionality@4efc180e]" started-at="2022-05-28T07:32:09 IST" name="tearDown" finished-at="2022-05-28T07:32:10 IST" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SauceDemo.TestClasses.TC07LogoutFunctionality -->
+      <class name="com.SauceDemo.TestClasses.TC04SingleProductAddToCart">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SauceDemo.TestClasses.TC04SingleProductAddToCart@306f16f3]" started-at="2022-05-28T07:31:59 IST" name="setUp" finished-at="2022-05-28T07:32:07 IST" duration-ms="7599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="singleProductAddToCart()[pri:0, instance:com.SauceDemo.TestClasses.TC04SingleProductAddToCart@306f16f3]" started-at="2022-05-28T07:32:07 IST" name="singleProductAddToCart" finished-at="2022-05-28T07:32:07 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleProductAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SauceDemo.TestClasses.TC04SingleProductAddToCart@306f16f3]" started-at="2022-05-28T07:32:07 IST" name="tearDown" finished-at="2022-05-28T07:32:07 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SauceDemo.TestClasses.TC04SingleProductAddToCart -->
+      <class name="com.SauceDemo.TestClasses.TC10MultipleProductAddToCart">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SauceDemo.TestClasses.TC10MultipleProductAddToCart@5fbdfdcf]" started-at="2022-05-28T07:31:59 IST" name="setUp" finished-at="2022-05-28T07:32:09 IST" duration-ms="9796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="multipleProductAddToCart()[pri:0, instance:com.SauceDemo.TestClasses.TC10MultipleProductAddToCart@5fbdfdcf]" started-at="2022-05-28T07:32:09 IST" name="multipleProductAddToCart" finished-at="2022-05-28T07:32:09 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleProductAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SauceDemo.TestClasses.TC10MultipleProductAddToCart@5fbdfdcf]" started-at="2022-05-28T07:32:09 IST" name="tearDown" finished-at="2022-05-28T07:32:10 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SauceDemo.TestClasses.TC10MultipleProductAddToCart -->
+    </test> <!-- HighPTest -->
+  </suite> <!-- Suite -->
+</testng-results>
